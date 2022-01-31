@@ -1,3 +1,5 @@
+Yay! I used the the widndows terminal and git to get here and make this cool request!
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
